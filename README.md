@@ -27,3 +27,21 @@ I am a Cloud & Platform Engineer with expertise in AWS, Kubernetes/EKS, and Infr
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chinmayto" alt="GitHub Streak" /></a>
 
+
+## 📊 GitHub Stats
+
+### ⭐ Overall Stats
+![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmay13&show_icons=true&theme=github_dark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=chinmay13&theme=github-dark)
+
+### 📘 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay13&layout=compact&theme=github_dark)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/chinmay13/chinmay13/blob/output/github-contribution-grid-snake.svg)
+
+---
