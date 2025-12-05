@@ -21,8 +21,9 @@ I am a Cloud & Platform Engineer with expertise in AWS, Kubernetes/EKS, and Infr
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chinmay13)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chinmay13)
 
-## 🔗 Connect with me
+## Languages and Tools
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay13)
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay13" />
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmay13)]
+
