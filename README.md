@@ -25,5 +25,5 @@ I am a Cloud & Platform Engineer with expertise in AWS, Kubernetes/EKS, and Infr
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayto)]
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chinmayto" alt="GitHub Streak" /></a>
 
