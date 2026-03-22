@@ -25,9 +25,9 @@ I am a Cloud & Platform Engineer with expertise in AWS, Kubernetes/EKS, and Infr
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CDK Constructs Explained: L1, L2, and L3 with Python](https://dev.to/aws-builders/aws-cdk-constructs-explained-l1-l2-and-l3-with-python-4ie8)
 - [Building Scalable Web Application on AWS with CDK in TypeScript](https://dev.to/aws-builders/building-scalable-web-infrastructure-on-aws-with-cdk-in-typescript-21p5)
 - [Building Scalable Web Application on AWS with CDK and Python](https://dev.to/aws-builders/building-a-highly-available-web-application-on-aws-with-cdk-and-python-4epd)
 - [GitOps with ArgoCD on Amazon EKS using Terraform: A Complete Implementation Guide](https://dev.to/aws-builders/gitops-with-argocd-on-amazon-eks-using-terraform-a-complete-implementation-guide-1inc)
 - [Deploying Applications to Amazon ECS Using GitHub Actions CI/CD](https://dev.to/aws-builders/deploying-applications-to-amazon-ecs-using-github-actions-cicd-5b9k)
-- [Deploying a Simple App on ECS with Fargate &amp; Terraform using AWS Community Modules](https://dev.to/aws-builders/deploying-a-simple-app-on-ecs-with-fargate-terraform-using-community-modules-e0b)
 <!-- BLOG-POST-LIST:END -->
