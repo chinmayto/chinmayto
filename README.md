@@ -25,9 +25,9 @@ I am a Cloud & Platform Engineer with expertise in AWS, Kubernetes/EKS, and Infr
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Routing Traffic on Kubernetes &lpar;EKS&rpar; with the F5 NGINX Ingress Controller](https://dev.to/aws-builders/routing-traffic-on-kubernetes-eks-with-the-f5-nginx-ingress-controller-3d1e)
+- [Kubernetes Gateway API on Amazon EKS with Traefik](https://dev.to/aws-builders/kubernetes-gateway-api-on-amazon-eks-with-traefik-31ml)
 - [AWS CDK Constructs Explained: L1, L2, and L3 with Python](https://dev.to/aws-builders/aws-cdk-constructs-explained-l1-l2-and-l3-with-python-4ie8)
 - [Building Scalable Web Application on AWS with CDK in TypeScript](https://dev.to/aws-builders/building-scalable-web-infrastructure-on-aws-with-cdk-in-typescript-21p5)
 - [Building Scalable Web Application on AWS with CDK and Python](https://dev.to/aws-builders/building-a-highly-available-web-application-on-aws-with-cdk-and-python-4epd)
-- [GitOps with ArgoCD on Amazon EKS using Terraform: A Complete Implementation Guide](https://dev.to/aws-builders/gitops-with-argocd-on-amazon-eks-using-terraform-a-complete-implementation-guide-1inc)
-- [Deploying Applications to Amazon ECS Using GitHub Actions CI/CD](https://dev.to/aws-builders/deploying-applications-to-amazon-ecs-using-github-actions-cicd-5b9k)
 <!-- BLOG-POST-LIST:END -->
